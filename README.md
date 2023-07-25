@@ -15,12 +15,12 @@ Aqui segue um projeto básico de estrutura em HTML, com destaque em algumas TAGS
     </h1>
     <h4>Saiba mais sobre o projeto</h4>
     <p>
-        Este projeto <strong>HTML</strong> é realizado pela <em><strong>DIO</strong></em>
+        Este projeto <strong>HTML 5</strong> é realizado pela <em><strong>DIO</strong></em>
     </p>
     <blockquote>
         <mark>
             <em>
-                Este projeto é sobre as tegs em uso no HTML 5
+                Este projeto possui algumas TAGs básicas do HTML 5.
             </em>
         </mark>
     </blockquote>
